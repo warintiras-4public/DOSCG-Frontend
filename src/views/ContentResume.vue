@@ -5,9 +5,7 @@
 
 Warintira Sooppipat<br>
 Mobile: 081-814-9195<br>
-Email: warintiras@gmail.com<br>
-266 Mooban Sinkao, Srinakarin Road,<br>
-Nongbon, Prawet, Bangkok, 10250<br>
+Email: warintiras@gmail.com<br><br>
 
 EDUCATION<br><br>
 
@@ -64,7 +62,7 @@ TECHNICAL SKILLS<br><br>
     • Node.js, Java, PHP, C#.Net, C++, NoSQL, SQL, API<br>
     • HTML5, CSS3, Sass, Bootstrap, JavaScript, Angular, Typescript, jQuery, JSON<br>
     • ASP.Net, MS Visual Studio, PhpStorm, MS Access<br>
-    • Phalcon, Laravel, NestJS, Express.js, Java Spring Boot<br>
+    • Laravel, NestJS, Express.js<br>
     • MySQL, PostgreSQL, MongoDB<br>
     • Git, Docker, Linux<br>
     • CI/CD, Unit and Integration Tests<br><br>

@@ -17,7 +17,7 @@
 <script>
 import axios from 'axios';
 export default {
-  name: 'App',
+  name: 'ABC',
   components: {
   },
   data() {
